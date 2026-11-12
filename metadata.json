@@ -1,0 +1,6 @@
+{
+  "name": "Allez - Bangladesh Online Marketplace",
+  "description": "Allez is a premier multi-category e-commerce marketplace in Bangladesh offering authentic electronics, lifestyle goods, and smart home essentials with fast delivery across Gaibandha and nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
